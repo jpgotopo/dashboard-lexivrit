@@ -1,0 +1,187 @@
+h1 {
+    /* position: absolute; */
+   
+    /* left: 573px;
+    top: 121px; */
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 90px;
+    text-align: center;
+  }
+  .search-term {
+    position: absolute;
+    /* width: 449px;
+    height: 126px; */
+    
+  }
+  .search-term label {
+    position: absolute;
+    width: 176px;
+    height: 19px;
+    left: 12px;
+    top: 13px;
+  }
+  .search-term input {
+    position: absolute;
+    width: 421px;
+    height: 56px;
+    /* left: 12px; */
+    top: 49px;
+  
+    background: #ffffff;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+  .info-term {
+    position: absolute;
+    width: 463px;
+    height: 589px;
+
+    top: 96px;
+  }
+  .box-term {
+    position: absolute;
+    width: 421px;
+    height: 552px;
+  
+    top: 18px;
+  
+    background: #ffffff;
+    border: 1px solid #d2c0c0;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+  .term {
+    /* Término Hebreo */
+    position: absolute;
+    width: 153px;
+    height: 19px;
+    left: 272px;
+    top: 56px;
+  }
+  .term h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .info {
+    position: absolute;
+    width: 348px;
+    height: 368px;
+    left: 43px;
+    top: 148px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+  
+    color: #000000;
+    text-align: justify;
+  }
+  .occ-term {
+    position: absolute;
+    width: 736px;
+    height: 371px;
+
+  }
+  
+  .occurrences {
+    position: absolute;
+    width: 631px;
+    height: 331px;
+
+  
+    background: #e5f3f7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 39px;
+  }
+  
+  .occurrences h3 {
+    position: absolute;
+    width: 250px;
+    height: 24px;
+    left: 39px;
+    top: 25px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+  }
+  
+  .reference-term {
+    position: absolute;
+    width: 736px;
+    height: 371px;
+    top: 347px;
+  }
+  .box-reference {
+    position: absolute;
+    width: 631px;
+    height: 331px;
+
+  
+    background: #e5f3f7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 39px;
+  }
+  .box-title {
+    position: absolute;
+    width: 250px;
+    height: 26px;
+    left: 58px;
+    top: 38px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+  }
+  
+  .box-list {
+    position: absolute;
+    width: 569px;
+    height: 199px;
+    left: 60px;
+    top: 100px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+  
+    color: #000000;
+  }
+  
+  .circle {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 194px;
+    top: 85px;
+    border-radius: 50%;
+    background: linear-gradient(0deg, #386df4, #386df4), #0937ad;
+  }
+  
+  .circle-2 {
+    position: relative;
+    width: 130px;
+    height: 130px;
+    left: 45px;
+    top: 45px;
+    border-radius: 50%;
+    background: #c4c4c4;
+  }
+  
